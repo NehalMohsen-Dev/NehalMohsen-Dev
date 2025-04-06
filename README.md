@@ -14,7 +14,7 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-- 🔭 I’m currently working on **Unilever as MERN Stack Developer** (Full-time)
+- 🔭 I’m currently working on **Unilever as Front End Developer** (Full-time)
 
 - 🌱 I’m currently learning **Node js**
 
@@ -29,8 +29,7 @@
 <a href="https://linkedin.com/in/nehal-mohsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehal mohsen" height="30" width="40" /></a> <a href="https://www.facebook.com/profile.php?id=100038504168832&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="nehal mohsen" height="30" width="40" /></a>
   <a href="nehalmoh27@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="nehal mohsen" height="30" width="40" /></a>
   <a href="https://instagram.com/m_nehal22?igshid=YWJhMjlhZTc=" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="nehal mohsen" height="30" width="40" /></a>
-  <a href="https://github.com/nehalmohsen22" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="nehal mohsen" height="30" width="40" /></a>
-  
+
 </div>
 </br>
 

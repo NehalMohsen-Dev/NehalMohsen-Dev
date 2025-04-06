@@ -5,7 +5,7 @@
   <img height="200" src="https://media.licdn.com/dms/image/C4D16AQFA89iIOhtqrg/profile-displaybackgroundimage-shrink_350_1400/0/1657750085045?e=1678924800&v=beta&t=ImI9mI8m_1XEWxbzw9_tAKnccT057yghX0FfiOg3nPk"  />
 </div> -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nehalmohsen22&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=NehalMohsen-Dev&&style=flat-square" align="center" />
 </div>  
 <br/>
 
@@ -48,19 +48,14 @@
 <br> -->
 <br>
 <div align="center"> <h1>Github Status </h1> </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nehalmohsen22&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NehalMohsen-Dev&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
 <br/> 
-<!-- ![Nehal Mohsen's stats](https://github-readme-stats.vercel.app/api?username=nehalmohsen22&show_icons=true&theme=radical)
+<!-- ![Nehal Mohsen's stats](https://github-readme-stats.vercel.app/api?username=NehalMohsen-Dev&show_icons=true&theme=radical)
 <br/> -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalmohsen22&theme=dracula&hide_border=true" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NehalMohsen-Dev&theme=dracula&hide_border=true" style="width: 100%" /></div>  
 <br/> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmohsen22&layout=compact&theme=dracula&hide_border=true" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehalMohsen-Dev&layout=compact&theme=dracula&hide_border=true" style="width: 100%" />
 </div>   
 </br>
-<!-- ![Nehal Mohsen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehalmohsen22&theme=dracula&hide_border=false) -->
-<div align="center">
-  <img src="https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.svg" style="width: 100%" />
-</div>            
 
-<!-- ![Snake animation](https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.svg) -->
